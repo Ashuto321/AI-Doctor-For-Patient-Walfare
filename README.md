@@ -1,2 +1,6 @@
-![image alt](https://www.figma.com/make/VhDsXQV59p7xmRTjzjdoDR/AI-Patient-Management-Workflow?t=GKeyr13d18TxiYRP-1) 
+## 🎥 Project Demo
+
+[![Watch the demo](assets/demo-thumbnail.png)](assets/demo.mp4)
+
+
 
