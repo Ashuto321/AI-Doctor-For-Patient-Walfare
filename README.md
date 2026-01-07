@@ -1,5 +1,9 @@
 <h1 align="center">🩺 AI Doctor for Patient Welfare</h1>
 
+
+https://github.com/user-attachments/assets/bdb02966-1351-4211-bbdd-94561db470a4
+
+
 <p align="center">
 An AI-powered healthcare assistant designed to analyze patient data, predict possible diseases,  
 and provide intelligent medical insights using Machine Learning and AI.  
@@ -109,6 +113,7 @@ AI & ML Engineer | Generative AI Research Analyst<br>
 <p align="center">
 ⭐ If you find this project useful, consider starring the repository ⭐
 </p>
+
 
 
 
