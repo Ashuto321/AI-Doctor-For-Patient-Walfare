@@ -43,7 +43,7 @@ processed using AI and ML models,
 and transformed into predictive medical insights.
 </p>
 
-<img src="assets/workflow.png" alt="Workflow Diagram" width="80%">
+<img src="https://github.com/Ashuto321/AI-Doctor-For-Patient-Walfare/blob/c3fbad802930bb97bc2c7e25fa0fb634b59f735d/workflow_png.png" alt="Workflow Diagram" width="80%">
 
 <h2>📸 Output Preview</h2>
 <p>
@@ -110,6 +110,7 @@ AI & ML Engineer | Generative AI Research Analyst<br>
 <p align="center">
 ⭐ If you find this project useful, consider starring the repository ⭐
 </p>
+
 
 
 
