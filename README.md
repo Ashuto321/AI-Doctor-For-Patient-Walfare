@@ -100,8 +100,8 @@ ensuring ethical AI usage.
 <p>
 <b>Ashutosh Pandey</b><br>
 AI & ML Engineer | Generative AI Research Analyst<br>
-<a href="https://github.com/your-username">GitHub</a> |
-<a href="https://linkedin.com/in/your-profile">LinkedIn</a>
+<a href="https://github.com/Ashuto321">GitHub</a> |
+<a href="https://www.linkedin.com/in/ashutosh-pandeyb/">LinkedIn</a>
 </p>
 
 <hr>
@@ -109,6 +109,7 @@ AI & ML Engineer | Generative AI Research Analyst<br>
 <p align="center">
 ⭐ If you find this project useful, consider starring the repository ⭐
 </p>
+
 
 
 
