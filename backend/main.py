@@ -104,7 +104,7 @@ def add_patient(patient: dict):
 
 
 # Configure your API Key (Get one at aistudio.google.com)
-genai.configure(api_key="AIzaSyBjzdoPjNNJwfMJSN2gbV0FpOvP9FBMTpU")
+genai.configure(api_key="Use your own api key")
 
 @app.get("/ai-advice/{patient_id}")
 def get_ai_advice(patient_id: str):
