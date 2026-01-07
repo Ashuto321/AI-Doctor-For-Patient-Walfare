@@ -53,7 +53,6 @@ displayed through an intuitive interface.
 </p>
 
 <img src="assets/output1.png" width="45%">
-<img src="assets/output2.png" width="45%">
 
 <h2>⚙️ Installation</h2>
 <p>
@@ -110,6 +109,7 @@ AI & ML Engineer | Generative AI Research Analyst<br>
 <p align="center">
 ⭐ If you find this project useful, consider starring the repository ⭐
 </p>
+
 
 
 
