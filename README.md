@@ -52,7 +52,7 @@ including predicted conditions and confidence levels,
 displayed through an intuitive interface.
 </p>
 
-<img src="https://github.com/Ashuto321/AI-Doctor-For-Patient-Walfare/blob/c53ede807b87630a3a997d726184266c7c8cf8f0/Output_1.png" width="45%">
+<img src="https://github.com/Ashuto321/AI-Doctor-For-Patient-Walfare/blob/c53ede807b87630a3a997d726184266c7c8cf8f0/Output_1.png" width="100%">
 
 <h2>⚙️ Installation</h2>
 <p>
@@ -109,6 +109,7 @@ AI & ML Engineer | Generative AI Research Analyst<br>
 <p align="center">
 ⭐ If you find this project useful, consider starring the repository ⭐
 </p>
+
 
 
 
