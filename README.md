@@ -32,7 +32,7 @@ and delivering fast, data-driven diagnostic suggestions.
   <li>Real-time health insights with confidence scores</li>
   <li>Secure, scalable, and patient-friendly system</li>
 </ul>
-
+ 
 <h2>🛠️ Tech Stack</h2>
 <ul>
   <li><b>Frontend:</b> Streamlit / React, HTML, CSS</li>
@@ -113,6 +113,7 @@ AI & ML Engineer | Generative AI Research Analyst<br>
 <p align="center">
 ⭐ If you find this project useful, consider starring the repository ⭐
 </p>
+
 
 
 
