@@ -12,7 +12,7 @@ Focused on improving early diagnosis, accessibility, and patient welfare.
 
 <hr> 
 
-<h2>📌 Project Overview</h2>
+<h2>📌 Project Overview</h2> 
 <p>
 AI Doctor for Patient Welfare assists users by processing medical inputs such as symptoms and vitals,  
 applying trained ML models to predict health conditions,  
@@ -113,6 +113,7 @@ AI & ML Engineer | Generative AI Research Analyst<br>
 <p align="center">
 ⭐ If you find this project useful, consider starring the repository ⭐
 </p>
+
 
 
 
