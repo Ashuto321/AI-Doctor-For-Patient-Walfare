@@ -10,7 +10,7 @@ and provide intelligent medical insights using Machine Learning and AI.
 Focused on improving early diagnosis, accessibility, and patient welfare.
 </p>
 
-<hr>
+<hr> 
 
 <h2>📌 Project Overview</h2>
 <p>
@@ -113,6 +113,7 @@ AI & ML Engineer | Generative AI Research Analyst<br>
 <p align="center">
 ⭐ If you find this project useful, consider starring the repository ⭐
 </p>
+
 
 
 
